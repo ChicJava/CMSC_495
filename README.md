@@ -1,0 +1,1 @@
+This git is set up for my teams final capstone project. 
